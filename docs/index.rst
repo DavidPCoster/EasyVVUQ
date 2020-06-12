@@ -33,18 +33,12 @@ Table of contents
 -----------------
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
+   :caption: Contents
 
    installation
    concepts
-   basic_tutorial
-   cooling_coffee_cup
-   dask_tutorial
-   fusion_tutorial
-   multisampler_tutorial
-   restartable_campaign_tutorial
-   custom_encoder
-   multiencoder_tutorial
+   tutorials
 
 Indices and tables
 ==================

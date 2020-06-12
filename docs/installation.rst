@@ -1,7 +1,10 @@
 .. _installation:
 
+EasyVVUQ installation
+=====================
+
 Installation
-============
+------------
 
 .. note:: To use the library you will need Python 3.6+.
 
@@ -12,6 +15,10 @@ Installation should be straight forward::
 To update an existing installation::
 
     pip install easyvvuq --upgrade
+    
+You can also install it from Conda Cloud if you prefer the anaconda software ecosystem::
+    
+    conda install -c orbitfold easyvvuq
 
 Alternatively, to get the most current version, the code can be installed from
 Github as follows::
